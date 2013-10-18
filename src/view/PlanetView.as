@@ -1,0 +1,1 @@
+﻿package views {		import flash.display.MovieClip;	import model.Planet;		public class PlanetView extends MovieClip {				public var planet: Planet;	}	}
